@@ -1,0 +1,9 @@
+Consider LA is a linear array with N elements and K is a positive integer such that K<=N. Following is the algorithm to delete an element available at the Kth position of LA.
+
+1. Start
+2. Set J = K
+3. Repeat steps 4 and 5 while J < N
+4. Set LA[J] = LA[J + 1]
+5. Set J = J+1
+6. Set N = N-1
+7. Stop

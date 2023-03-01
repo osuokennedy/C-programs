@@ -1,0 +1,7 @@
+1. Start
+2. Set J = 0
+3. Repeat steps 4 and 5 while J < N
+4. IF LA[J] is equal ITEM THEN GOTO STEP 6
+5. Set J = J +1
+6. PRINT J, ITEM
+7. Stop
